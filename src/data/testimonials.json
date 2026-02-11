@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "Aditya Krishnan",
+    "avatar": "AK",
+    "role": "Software Engineer at Google",
+    "text": "The ML bootcamp completely transformed my career. Within 6 months of completing the course, I landed my dream role. The curriculum is world-class.",
+    "rating": 5
+  },
+  {
+    "id": 2,
+    "name": "Meera Patel",
+    "avatar": "MP",
+    "role": "Product Designer at Razorpay",
+    "text": "The UI/UX masterclass gave me the design thinking framework I was missing. The portfolio projects helped me stand out in interviews.",
+    "rating": 5
+  },
+  {
+    "id": 3,
+    "name": "Rahul Gupta",
+    "avatar": "RG",
+    "role": "Full-Stack Developer, Freelancer",
+    "text": "I went from zero coding experience to building production apps in 4 months. The full-stack course is incredibly well-structured and practical.",
+    "rating": 5
+  },
+  {
+    "id": 4,
+    "name": "Divya Sharma",
+    "avatar": "DS",
+    "role": "Data Analyst at Amazon",
+    "text": "The data science course bridged the gap between theory and industry practice. The real-world projects gave me confidence to tackle any data challenge.",
+    "rating": 5
+  }
+]
