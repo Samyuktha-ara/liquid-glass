@@ -8,7 +8,7 @@ import Contact from "./pages/Contact";
 
 export default function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/liquid-glass">
       <Routes>
         <Route element={<MainLayout />}>
           <Route path="/" element={<Home />} />
